@@ -1,0 +1,4 @@
+import prin
+
+prin.p()
+
